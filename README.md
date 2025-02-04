@@ -10,5 +10,5 @@ Brake Torque Mod is a mod made for [KSL](https://github.com/trbflxr/ksl). It all
 
 # Installation Guide
 1) To install the mod you must have KSL, you can find the guide [here](https://github.com/trbflxr/ksl/blob/master/doc/guide/install.md)
-2) Once installed, go to [Releases]() page and download the .ZIP
+2) Once installed, go to [Releases](https://github.com/Sad-Csharp/BTM-Brake-Torque-Mod/releases/tag/v1.0.0) page and download the .ZIP
 3) Open the .ZIP using 7zip, WinRaR, etc. and drag and drop the .KSM file to your kino\mods directory: "CarX Drift Racing Online\kino\mods"
