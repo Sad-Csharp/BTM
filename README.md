@@ -6,6 +6,7 @@ Brake Torque Mod is a mod made for [KSL](https://github.com/trbflxr/ksl). It all
 * Brake torque values will automatically be saved per car.
 * Ability to load saved values automatically when your car is loaded.
 * Ability to enable/disable loading of your values.
+* Ability to enable/disable the mod
 
 # Installation Guide
 1) To install the mod you must have KSL, you can find the guide [here](https://github.com/trbflxr/ksl/blob/master/doc/guide/install.md)
