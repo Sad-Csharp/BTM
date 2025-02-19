@@ -1,4 +1,6 @@
 # [BTM] Brake Torque Mod
+![GitHub all releases](https://img.shields.io/github/downloads/Sad-Csharp/BTM-Brake-Torque-Mod/total?label=TOTAL%20DOWNLOADS&style=for-the-badge)
+
 Brake Torque Mod is a mod made for [KSL](https://github.com/trbflxr/ksl). It allows you to adjust your brake torque value below the games default range of 1,000 - 10,000 N/m.
 
 # Features
